@@ -61,5 +61,12 @@
 	  "author": "Jakob Zach",
 	  "year": "2020_WS",
 	  "status": 0
+  },
+	 {
+    "title": "2dPlatformer",
+    "folder": "2dPlatformer",
+    "author": "Niklas Gruber",
+    "year": "2020_WS",
+    "status": 1
   }
 ]
